@@ -9,7 +9,7 @@ livros = [{
     "editora":"num sei cathcau"
 
 },{
-    "nome":"Arrombado de morte",
+    "nome":"teste de morte",
     "editora":"Eoem"
 },{
     "nome":"Cansei ja",
